@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "name": "mohamedchakiri/projet_env-dev",
     "authors": [
         {
@@ -7,4 +8,6 @@
         }
     ],
     "require": {}
+=======
+>>>>>>> master
 }
