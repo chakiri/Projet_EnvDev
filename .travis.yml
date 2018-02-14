@@ -17,6 +17,8 @@ deploy:
   on:
     repo: chakiri/Projet_EnvDev
     branch: chakiri
+
+    
 notifications:
   email:
     recipients:
